@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TopDownDialog</string>
+    <string name="close">CLOSE</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="hello">Hello</string>
+    <string name="dialog_title">Top Down Dialog</string>
+    <string name="dialog_sub_title">Hi! Top Down Dialog</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TopDownDialogAnimationStyle">
+        <item name="android:windowEnterAnimation">@anim/top_down_dialog_open</item>
+        <item name="android:windowExitAnimation">@anim/top_down_dialog_close</item>
+    </style>
+</resources>
